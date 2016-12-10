@@ -12,6 +12,7 @@
 		F7DC67B61DF79C4D00DC8A0A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F7DC67B41DF79C4D00DC8A0A /* Main.storyboard */; };
 		F7DC67B81DF79C4D00DC8A0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7DC67B71DF79C4D00DC8A0A /* Assets.xcassets */; };
 		F7DC67BB1DF79C4D00DC8A0A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F7DC67B91DF79C4D00DC8A0A /* LaunchScreen.storyboard */; };
+		F7DC67C31DF7C76900DC8A0A /* ObelixProB.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F7DC67C21DF7C76900DC8A0A /* ObelixProB.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F7DC67B71DF79C4D00DC8A0A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F7DC67BA1DF79C4D00DC8A0A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F7DC67BC1DF79C4D00DC8A0A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F7DC67C21DF7C76900DC8A0A /* ObelixProB.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ObelixProB.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				F7DC67B71DF79C4D00DC8A0A /* Assets.xcassets */,
 				F7DC67B91DF79C4D00DC8A0A /* LaunchScreen.storyboard */,
 				F7DC67BC1DF79C4D00DC8A0A /* Info.plist */,
+				F7DC67C21DF7C76900DC8A0A /* ObelixProB.ttf */,
 			);
 			path = TapMeFast;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7DC67C31DF7C76900DC8A0A /* ObelixProB.ttf in Resources */,
 				F7DC67BB1DF79C4D00DC8A0A /* LaunchScreen.storyboard in Resources */,
 				F7DC67B81DF79C4D00DC8A0A /* Assets.xcassets in Resources */,
 				F7DC67B61DF79C4D00DC8A0A /* Main.storyboard in Resources */,
